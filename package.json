@@ -1,6 +1,6 @@
 {
   "name": "01-desafio",
-  "type":"module",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,10 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.3",
+    "moment": "^2.29.4",
+    "node-fetch": "^3.3.2"
+  }
 }
